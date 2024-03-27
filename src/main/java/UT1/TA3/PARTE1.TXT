@@ -1,0 +1,5 @@
+Lenguaje natural del metodo:
+
+A traves de una de un metodo llamado contarPalabras que toma
+como parametro de entrada un string, cuanta todas las palabaras
+separadas por espacios, devolviendo un entero positivo
